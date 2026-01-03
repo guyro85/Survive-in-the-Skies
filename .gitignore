@@ -17,6 +17,7 @@ RTS_test1/.vs/
 RTS_test1/obj/
 RTS_test1/obj/Debug/
 RTS_test1/.DS_Store
+build/
 
 *.log
 
