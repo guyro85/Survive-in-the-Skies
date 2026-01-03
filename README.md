@@ -8,7 +8,9 @@
 
 ## Overview
 
-**Survive-in-the-Skies** is a Unity-based real-time strategy game where players must manage resources, strategize, and survive in an aerial environment. The game emphasizes tactical decision-making and real-time mechanics set high above the ground.
+**Survive-in-the-Skies** is a Unity-based real-time strategy game where players must manage resources, strategize, and survive in an aerial environment. The game emphasizes tactical decision-making and real-time mechanics set high above the ground.  
+
+This project originated as a submission for a game jam, where we developed the core mechanics and card logic under a strictly limited timeframe. While the version here showcases those foundational systems, the game remains a work in progress. We are currently utilizing this repository as a sandbox to experiment with more advanced C# architectures, AI behaviors, and polished UI systems that weren't possible during the initial jam.
 
 ## Features
 
