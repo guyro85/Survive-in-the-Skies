@@ -1,5 +1,11 @@
 # Survive-in-the-Skies
 
+<div align="center">
+  <img src="media/menu.png" width="32%" alt="Description 1" />
+  <img src="media/Gameplay.gif" width="32%" alt="Description 2" />
+  <img src="media/screenshot.png" width="32%" alt="Description 3" />
+</div>
+
 ## Overview
 
 **Survive-in-the-Skies** is a Unity-based real-time strategy game where players must manage resources, strategize, and survive in an aerial environment. The game emphasizes tactical decision-making and real-time mechanics set high above the ground.
